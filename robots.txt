@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://smotrim-filmix.xyz/sitemap.xml
+Sitemap: https://smotrim-filmix.xyz/sitemap1.xml
